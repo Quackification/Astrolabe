@@ -1,4 +1,5 @@
-# Astrolabe 
+# Astrolabe (now with nix!)
+all i did was add a shell.nix lol. read the original readme now.
 ## Overview
 Astrolabe is a vision processing software designed specifically for FRC teams. Astrolabe has two ends, a server, usually the 
 coprocessor, and a client, usually the driver station or the robot, whichever is connected to the server. The server is 
